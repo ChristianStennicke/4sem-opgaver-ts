@@ -2,9 +2,8 @@
 
 ## Overview
 
-- Your name
-- which assignment are included
-- which one are completed and which one are not
+Christian Stennicke
+- Exercise 1
+- Excercise 2 not completed
 
-## Friday presentation
-- add the friday presentation into the weekly folder
+
