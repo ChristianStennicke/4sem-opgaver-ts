@@ -2,9 +2,6 @@
 
 ## Overview
 
-- Your name
-- which assignment are included
-- which one are completed and which one are not
-
-## Friday presentation
-- add the friday presentation into the weekly folder
+- Christian Stennicke
+- Tirsdags exercise
+- Jeg har implementeret Singleton pattern i TaskManager.ts, og har implementeret Factory pattern i Types.ts og derefter brugt Factory funktionen i TaskForm.tsx.
